@@ -7,7 +7,7 @@ export const projects = {
       name: 'E-commerce Projects',
       list: [{
         url: 'https://hstern.com.br',
-        title: 'Title',
+        title: 'Hstern',
         description: 'loreem'
       }, {
         url: 'https://yellmobile.com.br',
