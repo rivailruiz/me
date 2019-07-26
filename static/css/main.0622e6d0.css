@@ -2411,6 +2411,9 @@ p {
   text-align: center;
   color: #fff;
 }
+.sidebar-wrapper .profile-container img {
+  border-radius: 50%;
+}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
@@ -2632,4 +2635,4 @@ p {
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
 
-/*# sourceMappingURL=main.e8b6810c.css.map*/
+/*# sourceMappingURL=main.0622e6d0.css.map*/
