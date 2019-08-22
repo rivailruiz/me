@@ -1,0 +1,21 @@
+{
+     "short_name": "PNA",
+     "name": "Portal de Planejamento",
+     "icons": [
+       {
+         "src": "https://tvglobocorp.sharepoint.com/sites/dtap/pna/SiteAssets/icon.png",
+         "type": "image/png",
+         "sizes": "192x192"
+       },
+       {
+         "src": "https://tvglobocorp.sharepoint.com/sites/dtap/pna/SiteAssets/icon.png",
+         "type": "image/png",
+         "sizes": "512x512"
+       }
+     ],
+     "start_url": "https://tvglobocorp.sharepoint.com/sites/dtap/pna/Paginas/portal-planejamento.aspx",
+     "background_color": "#3367D6",
+     "display": "standalone",
+     "scope": "/Paginas/",
+     "theme_color": "#3367D6"
+   }
