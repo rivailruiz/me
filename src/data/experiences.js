@@ -57,7 +57,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer',
       company: 'Rede Globo',
-      description: 'I\'m working in a biggest TV Company from Brazil',
+      description: 'I\'m working in the biggest TV Company from Brazil',
       companyLink: 'https://redeglobo.globo.com/',
     }
   ]
