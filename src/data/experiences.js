@@ -41,6 +41,12 @@ export const experiences = {
       company: 'Way',
       description: 'working with Angular and AngularJs as a freelancer on two projects. The first one is a vehicle tracking system, where I’m finalizing the project, correcting bugs, and working on new system\’s functions such as scheduling track and contracting plan. The other is a cashback system, which I\'m building a product category page.',
       companyLink: 'https://www.smartway.com.br/',
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'Rede Globo',
+      description: 'I\'m working in a biggest TV Company from Brazil',
+      companyLink: 'https://redeglobo.globo.com/',
     }
   ]
 };
