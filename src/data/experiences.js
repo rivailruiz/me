@@ -53,6 +53,12 @@ export const experiences = {
       company: 'Just Fetch it',
       description: 'I\'m working in Mobile App from Dublin, Ireland.',
       companyLink: 'https://www.justfetchit.ie/',
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'Rede Globo',
+      description: 'I\'m working in a biggest TV Company from Brazil',
+      companyLink: 'https://redeglobo.globo.com/',
     }
   ]
 };
