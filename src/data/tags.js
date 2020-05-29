@@ -12,7 +12,13 @@ export const tags = {
     'Webpack',
     'Npm/Yarn',
     'PHP', 
-    'NodeJs' 
+    'NodeJs',
+    'Elixir',
+    'Postgresl',
+    'MariaDB',
+    'MongoDB',
+    'Phoenix',
+    'ExpressJs' 
   ]
 };
 

@@ -1,5 +1,5 @@
 const profile = {
-  name: 'Alexander Rivail Ruiz Martins',
+  name: 'Alexander Ruiz',
   title: 'Software Engineer',
   mail: 'ruizalexander@id.uff.br',
   phoneNumber: '+55 (21) 983555156',
@@ -11,7 +11,7 @@ const profile = {
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'Computer Science', school: 'Universidade Federal Fluminense', date: '2015-Present' },
+      { name: 'Computer Science', school: 'Universidade Federal Fluminense', date: '2015-2020' },
     ]
   },
   languages: {
