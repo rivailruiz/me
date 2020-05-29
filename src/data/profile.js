@@ -1,6 +1,6 @@
 const profile = {
   name: 'Alexander Rivail Ruiz Martins',
-  title: 'Frontend Developer',
+  title: 'Software Engineer',
   mail: 'ruizalexander@id.uff.br',
   phoneNumber: '+55 (21) 983555156',
   website: '',
@@ -20,7 +20,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Code','Photography', 'Guitar', 'Drums']
+    list: ['Code', 'Video-games', 'Photography', 'Guitar', 'Drums']
   }
 };
 
