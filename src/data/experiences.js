@@ -59,6 +59,18 @@ export const experiences = {
       company: 'Rede Globo',
       description: 'I\'m working in the biggest TV Company from Brazil',
       companyLink: 'https://redeglobo.globo.com/',
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'Hammerstone Markets Inc',
+      description: 'I\'ve worked with elixir, phoenix and vuejs',
+      companyLink: 'https://www.hammerstonemarkets.com/',
+    },
+     {
+      title: 'Full Stack Developer',
+      company: 'picoworkers.com',
+      description: 'I\'m working with PHP.',
+      companyLink: 'https://www.hammerstonemarkets.com/',
     }
   ]
 };
