@@ -4,7 +4,7 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Backend Intern' ,
+      title: 'Backend Intern',
       company: 'Brazil\'s navy',
       description: 'I’ve worked with PHP during 8 months. I was helping to build the API for a weather system.',
       companyLink: 'https://www.marinha.mil.br/',
@@ -66,11 +66,17 @@ export const experiences = {
       description: 'I\'ve worked with elixir, phoenix and vuejs',
       companyLink: 'https://www.hammerstonemarkets.com/',
     },
-     {
+    {
+      title: 'Full Stack Developer Frelancer',
+      company: 'Opassity',
+      description: 'I\'m working with nodejs, mongodb and vuejs.',
+      companyLink: 'https://opassity.netlify.app/',
+    },
+    {
       title: 'Full Stack Developer',
       company: 'picoworkers.com',
-      description: 'I\'m working with PHP.',
-      companyLink: 'https://www.hammerstonemarkets.com/',
+      description: 'I\'m a fullstack developer working with PHP and Mysql on the backend and HTML, CSS, JS on the frontend. During that time, I created new features and maintenance existing ones.',
+      companyLink: 'https://www.picoworkers.com/',
     }
   ]
 };
