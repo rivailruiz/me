@@ -11,14 +11,14 @@ export const tags = {
     'Redux',
     'Webpack',
     'Npm/Yarn',
-    'PHP', 
+    'PHP',
     'NodeJs',
+    'Express',
     'Elixir',
-    'Postgresl',
-    'MariaDB',
-    'MongoDB',
     'Phoenix',
-    'ExpressJs' 
+    'Postgresql',
+    'MariaDB',
+    'MongoDB'
   ]
 };
 
