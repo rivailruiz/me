@@ -23,6 +23,7 @@ export const tags = {
     'AWS Lambda',
     'AWS Cloud Front',
     'AWS EC2',
+    'NestJs'
   ]
 };
 
