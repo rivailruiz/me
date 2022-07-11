@@ -79,7 +79,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer Frelancer',
       company: 'Opassity',
-      description: 'I\'ve worked as freelancer with Nodejs, Mongodb and Vuejs.',
+      description: 'I\'ve worked as freelancer with Nodejs, Mongodb and Vuejs. I also work on the infrastructure with AWS services: Lambda, S3, EC2, Cloud Front and RDS',
       companyLink: 'https://opassity.netlify.app/',
       date: '2020 - 2022'
     },

@@ -18,7 +18,11 @@ export const tags = {
     'Phoenix',
     'Postgresql',
     'MariaDB',
-    'MongoDB'
+    'MongoDB',
+    'AWS S3',
+    'AWS Lambda',
+    'AWS Cloud Front',
+    'AWS EC2',
   ]
 };
 
