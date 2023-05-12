@@ -5,19 +5,26 @@ export const projects = {
   categories: [
     {
       name: 'Last Projects',
-      list: [{
+      list: [
+      {
+        url: '#',
+        title: 'Barramento',
+        description: 'Barramento is a project that I worked on at Grupo Soma. It was built using the following technologies: Node.js with TypeScript, Nest.js, Redis, MySQL, Terraform, and Google Cloud. Initially, it was a monolithic application, and I was involved in the migration to a microservices architecture.'
+      }, 
+      {
         url: 'https://opassity.netlify.app/',
         title: 'Opassity APP',
-        description: 'Opassity is an event startup that I am working as freelancer.'
-      }, {
+        description: 'Opassity is an event startup where I work as a freelancer. Essentially, we have a backend built with the following technologies: Node.js, Nest.js, and MongoDB. The frontend was developed using Vue.js. The main goal of this project is to create a platform where people can manage their events and credentials.'
+      }, 
+      {
         url: 'https://picoworkers.com',
         title: 'Picoworkers website',
-        description: 'Picoworkers is an online marketplace that connects Freelancers around the world with business owners. Businesses who need other people to help them to support their work come to Picoworkers. Here they can hire workers for easy and quick jobs. '
+        description: 'Picoworkers is an online marketplace that connects freelancers from around the world with business owners. Businesses that require assistance with their work can turn to Picoworkers to find and hire workers for easy and quick jobs. The platform was built using the following technologies: PHP and MySQL. Additionally, I was involved in working on the server infrastructure.'
       },
       {
         url: 'https://www.hammerstonemarkets.com/',
         title: 'Hammerstone Messenger APP',
-        description: 'This is a Realtime Application that was built with the following tecnologies: Elixir, Phoenix and Vuejs.'
+        description: 'This project is a real-time application. Essentially, it is a messenger similar to Slack but with additional features focused on the financial market. It was built using the following technologies: Elixir, Phoenix, Postgres, and Vue.js.'
       }],
     },
     {

@@ -5,8 +5,8 @@ export const experiences = {
   list: [
     {
       title: 'Backend Intern',
-      company: 'Brazil\'s navy',
-      description: 'I’ve worked with PHP during 8 months. I was helping to build the API for a weather system.',
+      company: 'Brazil\'s Navy',
+      description: 'I worked as a backend intern for 8 months, utilizing PHP to contribute to the development of a weather system API.',
       companyLink: 'https://www.marinha.mil.br/',
       companyShortDetail: '',
       data: '',
@@ -15,7 +15,7 @@ export const experiences = {
     {
       title: 'Fullstack Developer',
       company: 'Total Control',
-      description: ' I\'ve worked as fulltime with JavaScript, PHP and AngularJs during 12 months to build an internal reseller system.',
+      description: 'As a fullstack developer, I dedicated 12 months to working with JavaScript, PHP, and AngularJS. My primary responsibility was to build an internal reseller system.',
       companyLink: 'https://totalcontrol.com.br/novo/',
       companyShortDetail: '',
       date: '2014 - 2015'
@@ -23,72 +23,79 @@ export const experiences = {
     {
       title: 'Mobile Developer',
       company: '7Giros Eventos',
-      description: 'It was a part time position, that I\'ve worked building a Mobile App (Ionic) and the backend with Nodejs.',
+      description: 'During my part-time position, I developed a Mobile App (Ionic) and its backend using Node.js.',
       companyLink: '',
       date: '2015 - 2016'
     },
     {
       title: 'Frontend Developer',
       company: 'E-can',
-      description: 'I\'ve worked as fulltime e-commerce developer using Angular and Reactjs.',
+      description: 'I served as a full-time e-commerce developer, utilizing Angular and React.js for website development.',
       companyLink: 'https://www.agenciaecan.com.br/',
       date: '2016 - 2017'
     },
     {
       title: 'Frontend Developer',
       company: 'Way',
-      description: 'I\'ve worked as freelancer building a vehicle tracking system using Nodejs and AngularJs.',
+      description: 'As a freelancer, I successfully built a vehicle tracking system using Node.js and AngularJS.',
       companyLink: 'https://www.smartway.com.br/',
       date: '2017 - 2018'
     },
     {
       title: 'Fullstack Developer',
-      company: '4propety',
-      description: 'I\'ve worked as intern freelancer when I was studying english in Ireland. I\'ve built some pages with PHP/Wordpress.',
+      company: '4property',
+      description: 'During my internship in Ireland while studying English, I developed several pages using PHP and WordPress.',
       companyLink: 'https://www.4property.com/',
       date: '2018 - 2018'
     },
     {
       title: 'Frontend Developer',
       company: 'Profit-e E-commerce Solutions',
-      description: 'I\'ve worked as fulltime e-commerce developer using Nodejs, Angular and Reactjs.',
+      description: 'I worked full-time as an e-commerce developer, utilizing Node.js, Angular, and React.js for website development.',
       companyLink: 'https://www.profite.cx/',
       date: '2018 - 2019'
     },
     {
       title: 'Mobile Developer',
       company: 'Just Fetch it',
-      description: 'I\'ve worked as freelancer with Nodejs and Ionic to built a Mobile App.',
+      description: 'As a freelancer, I utilized Node.js and Ionic to successfully build a Mobile App.',
       companyLink: 'https://www.justfetchit.ie/',
       date: '2018 - 2018'
     },
     {
       title: 'Full Stack Developer',
       company: 'Rede Globo',
-      description: 'I\'ve worked full time with Nodejs, React Native, ReactJs, VueJs and C#. I built some intern systems and mobile apps.',
+      description: 'I worked full-time, utilizing Node.js, React Native, React.js, Vue.js, and C#. I developed several internal systems and mobile apps.',
       companyLink: 'https://redeglobo.globo.com/',
       date: '2019 - 2020'
     },
     {
       title: 'Full Stack Developer',
       company: 'Hammerstone Markets Inc',
-      description: 'I\'ve built a messenger platform using Elixir with Phoenix and Vuejs. It was a realtime application (web socket). It was a freelancer.',
+      description: 'I developed a real-time messenger platform as a freelancer using Elixir with Phoenix and Vue.js. The application incorporated web socket technology.',
       companyLink: 'https://www.hammerstonemarkets.com/',
       date: '2019 - 2020'
     },
     {
-      title: 'Full Stack Developer Frelancer',
+      title: 'Full Stack Developer Freelancer',
       company: 'Opassity',
-      description: 'I\'ve worked as freelancer with Nodejs, Mongodb and Vuejs. I also work on the infrastructure with AWS services: Lambda, S3, EC2, Cloud Front and RDS',
+      description: 'As a freelancer, I specialized in Node.js, MongoDB, and Vue.js. I also managed the infrastructure using AWS services such as Lambda, S3, EC2, CloudFront, and RDS.',
       companyLink: 'https://opassity.netlify.app/',
       date: '2020 - 2022'
     },
     {
       title: 'Full Stack Developer',
-      company: 'picoworkers.com',
-      description: 'I\'m a fullstack developer working with PHP and Mysql on the backend. During that time, I\'ve created new features and maintenance existing ones.',
+      company: 'Picoworkers',
+      description: 'In my role as a Full Stack Developer, I primarily worked with PHP and MySQL on the backend. I actively contributed to the development of new features and maintenance of existing ones.',
       companyLink: 'https://www.picoworkers.com/',
-      date: '2019 - moment'
+      date: '2019 - 2022'
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'Grupo Soma',
+      description: ' I worked as a Full Stack Developer at Grupo Soma, where I specialized in utilizing Node.js, Nest.js, Redis, Terraform, Google Cloud, and MySQL. During my tenure, I primarily focused on successfully migrating a monolithic application to a microservices architecture.',
+      companyLink: 'https://www.somagrupo.com.br',
+      date: '2022 - 2023'
     }
   ]
 };

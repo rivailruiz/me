@@ -20,7 +20,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Code', 'Video-games', 'Photography', 'Guitar', 'Drums']
+    list: ['Code', 'Technology', 'Games', 'Photography', 'Music', 'Guitar', 'Drums']
   }
 };
 

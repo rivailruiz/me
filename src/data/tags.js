@@ -2,6 +2,7 @@ export const tags = {
   sectionTitle: '',
   icon: null,
   list: [
+    // Frontend
     'Javascript',
     'ReactJS',
     'ReactNative',
@@ -11,19 +12,53 @@ export const tags = {
     'Redux',
     'Webpack',
     'Npm/Yarn',
+  
+    // Backend
     'PHP',
+    'Golang',
     'NodeJs',
     'Express',
     'Elixir',
     'Phoenix',
+  
+    // Databases
     'Postgresql',
     'MariaDB',
     'MongoDB',
+    'Redis',
+  
+    // Cloud Platforms
+    'Google Cloud',
+    'Azure',
     'AWS S3',
     'AWS Lambda',
-    'AWS Cloud Front',
+    'AWS CloudFront',
     'AWS EC2',
-    'NestJs'
+    'AWS RDS',
+    'Digital Ocean',
+    'Heroku',
+  
+    // APIs and Protocols
+    'API Rest',
+    'API GraphQL',
+  
+    // Server Technologies
+    'NGINX',
+    'Apache',
+    'Docker',
+    'Kubernetes',
+    'API Gateway',
+    'Microservices',
+    'Serverless',
+  
+    // Version Control
+    'Git',
+  
+    // Infrastructure Provisioning
+    'Terraform',
+  
+    // Backend as a Service (BaaS)
+    'Firebase'
   ]
 };
 
