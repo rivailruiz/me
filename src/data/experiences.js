@@ -93,7 +93,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer',
       company: 'Grupo Soma',
-      description: ' I worked as a Full Stack Developer at Grupo Soma, where I specialized in utilizing Node.js, Nest.js, Redis, Terraform, Google Cloud, and MySQL. During my tenure, I primarily focused on successfully migrating a monolithic application to a microservices architecture.',
+      description: ' I worked as a Full Stack Developer at Grupo Soma, where I specialized in utilizing Node.js, Nest.js, Redis, Terraform, Google Cloud, and MySQL. During my tenure, I primarily focused on successfully migrating a monolithic application to a microservices architecture resulting in improved scalability, performance and leading to a significant reduction in infrastructure costs.',
       companyLink: 'https://www.somagrupo.com.br',
       date: '2022 - 2023'
     }
