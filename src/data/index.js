@@ -9,7 +9,7 @@ export const data = {
   careerProfile,
   experiences,
   projects,
-  tags
+  // tags
 };
 
 export default data;
