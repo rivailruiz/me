@@ -14,7 +14,7 @@ export const projects = {
       {
         url: 'https://opassity.netlify.app/',
         title: 'Opassity APP',
-        description: 'Opassity is an event startup where I work as a freelancer. Essentially, we have a backend built with the following technologies: Node.js, Nest.js, React Native and MongoDB. The frontend was developed using Vue.js. The main goal of this project is to create a platform where people can manage their events and credentials.'
+        description: 'Opassity is an event startup where I work as a freelancer. Essentially, we have a backend built with the following technologies: Node.js, Nest.js and MongoDB. The frontend was developed using Vue.js. The mobile app was developed using React Native. The main goal of this project is to create a platform where people can manage their events and credentials.'
       }, 
       {
         url: 'https://picoworkers.com',
