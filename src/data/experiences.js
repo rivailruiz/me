@@ -79,7 +79,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer Freelancer',
       company: 'Opassity',
-      description: 'As a freelancer, I specialized in Node.js, MongoDB, and Vue.js. I also managed the infrastructure using AWS services such as Lambda, S3, EC2, CloudFront, and RDS.',
+      description: 'As a freelancer, I specialized in Node.js, MongoDB, and Vue.js (Web) and React Native (mobile). I also managed the infrastructure using AWS services such as Lambda, S3, EC2, CloudFront, and RDS.',
       companyLink: 'https://opassity.netlify.app/',
       // date: '2020 - 2022'
     },
@@ -93,7 +93,7 @@ export const experiences = {
     {
       title: 'Full Stack Developer',
       company: 'Grupo Soma',
-      description: ' I worked as a Full Stack Developer at Grupo Soma, where I specialized in utilizing Node.js, Nest.js, Redis, Terraform, Google Cloud, and MySQL. During my tenure, I primarily focused on successfully migrating a monolithic application to a microservices architecture resulting in improved scalability, performance and leading to a significant reduction in infrastructure costs.',
+      description: ' I worked as a Full Stack Developer at Grupo Soma, where I specialized in utilizing Node.js, Nest.js, Redis, Terraform, Google Cloud, and MySQL. During my tenure, I primarily focused on successfully migrating a monolithic application to a microservices architecture resulting in improved scalability, performance and leading to a significant reduction in infrastructure costs. However, I also had the opportunity to contribute to the frontend development using React, specifically for an ecommerce platform. While my main expertise lies in the backend, I successfully utilized React to build and implement various features, enhancing the platform\'s user interface and overall functionality. ',
       companyLink: 'https://www.somagrupo.com.br',
       // date: '2022 - 2023'
     }
