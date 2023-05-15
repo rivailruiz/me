@@ -9,12 +9,12 @@ export const projects = {
       {
         url: '#',
         title: 'Barramento',
-        description: 'Barramento is a project that I worked on at Grupo Soma. It was built using the following technologies: Node.js with TypeScript, Nest.js, Redis, MySQL, Terraform, and Google Cloud. Initially, it was a monolithic application, and I was involved in the migration to a microservices architecture.'
+        description: 'Barramento is a good project that I worked on at Grupo Soma. It was built using the following technologies: Node.js with TypeScript, Nest.js, Redis, MySQL, Terraform, and Google Cloud. Initially, it was a monolithic application, and I was involved in the migration to a microservices architecture.'
       }, 
       {
         url: 'https://opassity.netlify.app/',
         title: 'Opassity APP',
-        description: 'Opassity is an event startup where I work as a freelancer. Essentially, we have a backend built with the following technologies: Node.js, Nest.js, and MongoDB. The frontend was developed using Vue.js. The main goal of this project is to create a platform where people can manage their events and credentials.'
+        description: 'Opassity is an event startup where I work as a freelancer. Essentially, we have a backend built with the following technologies: Node.js, Nest.js, React Native and MongoDB. The frontend was developed using Vue.js. The main goal of this project is to create a platform where people can manage their events and credentials.'
       }, 
       {
         url: 'https://picoworkers.com',
