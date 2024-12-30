@@ -8,7 +8,7 @@ export const data = {
   profile,
   careerProfile,
   experiences,
-  projects,
+  // projects,
   // tags
 };
 
