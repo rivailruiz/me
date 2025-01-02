@@ -2598,7 +2598,7 @@ p {
   color: #fb866a;
 }
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   .sidebar-wrapper {
     position: static;
     width: inherit;
@@ -2635,4 +2635,4 @@ p {
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
 
-/*# sourceMappingURL=main.565d5d89.css.map*/
+/*# sourceMappingURL=main.00725b8d.css.map*/
