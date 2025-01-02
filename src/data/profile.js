@@ -21,72 +21,82 @@ const profile = {
   interests: {
     // sectionTitle: 'Skills & Proficiency',
     list: [
-      // Frontend
-      // 'Javascript',
-      // 'ReactJS',
-      // 'ReactNative',
-      // 'Angular',
-      // 'AngularJs',
-      // 'VueJs',
-      // 'Redux',
-      // 'Webpack',
-      // 'Npm/Yarn',
-    
-      // // Backend
-      // 'PHP',
-      // 'Golang',
-      // 'NodeJs',
-      // 'Express',
-      // 'Elixir',
-      // 'Phoenix',
-    
-      // // Databases
-      // 'Postgresql',
-      // 'MariaDB',
-      // 'MongoDB',
-      // 'Redis',
-    
-      // // Cloud Platforms
-      // 'Google Cloud',
-      // 'Azure',
-      // 'AWS S3',
-      // 'AWS Lambda',
-      // 'AWS CloudFront',
-      // 'AWS EC2',
-      // 'AWS RDS',
-      // 'Digital Ocean',
-      // 'Heroku',
-    
-      // // APIs and Protocols
-      // 'API Rest',
-      // 'API GraphQL',
-    
-      // // Server Technologies
-      // 'NGINX',
-      // 'Apache',
-      // 'Docker',
-      // 'Kubernetes',
-      // 'API Gateway',
-      // 'Microservices',
-      // 'Serverless',
-    
-      // // Version Control
-      // 'Git',
-    
-      // // Infrastructure Provisioning
-      // 'Terraform',
-    
-      // // Backend as a Service (BaaS)
-      // 'Firebase',
 
-      // // methodologies
-      // 'Scrum',
-      // 'Kanban',
-      // 'Agile',
+      // AI
 
-      // //Documentation
-      // 'Swagger',
-      // 'Postman',
+      'Machine Learning',
+      'Deep Learning',
+      'Computer Vision',
+      'Fine-tuning',
+      'Transfer learning',
+      'Agent-based modeling',
+
+      //Frontend
+      'Javascript',
+      'ReactJS',
+      'ReactNative',
+      'Angular',
+      'AngularJs',
+      'VueJs',
+      'Redux',
+      'Webpack',
+      'Npm/Yarn',
+    
+      // Backend
+      'PHP',
+      'Golang',
+      'NodeJs',
+      'Express',
+      'Elixir',
+      'Phoenix',
+    
+      // Databases
+      'Postgresql',
+      'MariaDB',
+      'MongoDB',
+      'Redis',
+    
+      // Cloud Platforms
+      'Google Cloud',
+      'Azure',
+      'AWS S3',
+      'AWS Lambda',
+      'AWS CloudFront',
+      'AWS EC2',
+      'AWS RDS',
+      'Digital Ocean',
+      'Heroku',
+    
+      // APIs and Protocols
+      'API Rest',
+      'API GraphQL',
+    
+      // Server Technologies
+      'NGINX',
+      'Apache',
+      'Docker',
+      'Kubernetes',
+      'API Gateway',
+      'Microservices',
+      'Serverless',
+    
+      // Version Control
+      'Git',
+    
+      // Infrastructure Provisioning
+      'Terraform',
+    
+      // Backend as a Service (BaaS)
+      'Firebase',
+
+      // methodologies
+      'Scrum',
+      'Kanban',
+      'Agile',
+
+      //Documentation
+      'Swagger',
+      'Postman',
     ]
   }
 };

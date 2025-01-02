@@ -10,7 +10,7 @@ import Interests from './interests';
 export default class Sidebar extends Component {
   renderInterests() {
     if (this.props.interests) {
-      return (<Interests list={this.props.interests.list} title={this.props.interests.sectionTitle} />);
+      return (<Interests list={this.props.interests.list} title="Skills" />);
     }
     return null;
   }
