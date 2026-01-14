@@ -5,27 +5,6 @@ export const experiences = {
   list: [
     {
       title: 'Full Stack Developer',
-      company: 'Rede Globo',
-      description: 'I worked full-time, utilizing Node.js, React Native, React.js, Vue.js, and C#. I developed several internal systems and mobile apps.',
-      companyLink: 'https://redeglobo.globo.com/',
-      date: '2019 - 2020'
-    },
-    {
-      title: 'Full Stack Developer',
-      company: 'Hammerstone Markets Inc',
-      description: 'I developed a real-time messenger platform as a freelancer using Elixir with Phoenix and Vue.js. The application incorporated web socket technology.',
-      companyLink: 'https://www.hammerstonemarkets.com/',
-      date: '2019 - 2020'
-    },
-    {
-      title: 'Full Stack Developer Freelancer',
-      company: 'Opassity',
-      description: 'As a freelancer, I specialized in Node.js, MongoDB, and Vue.js (Web) and React Native (mobile). I also managed the infrastructure using AWS services such as Lambda, S3, EC2, CloudFront, and RDS.',
-      companyLink: 'https://opassity.netlify.app/',
-      date: '2020 - 2022'
-    },
-    {
-      title: 'Full Stack Developer',
       company: 'Picoworkers',
       description: 'In my role as a Full Stack Developer, I primarily worked with PHP and MySQL on the backend. I actively contributed to the development of new features and maintenance of existing ones.',
       companyLink: 'https://www.picoworkers.com/',
