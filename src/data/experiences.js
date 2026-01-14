@@ -105,7 +105,7 @@ export const experiences = {
       date: '2023 - 2024'
     },
     {
-      title: 'Software Engineer AI (freelancer)',
+      title: 'Software Engineer AI (temporary contract)',
       company: 'F2IT',
       description: 'Designed and implemented a full Retrieval-Augmented Generation (RAG) architecture using LlamaIndex, including document ingestion, vector indexing with Qdrant, and asynchronous query engines for scalable semantic search. <br><br> Built a multi-provider LLM management system supporting OpenAI, Anthropic, and self-hosted vLLM models, with per-bot configuration, dynamic prompts, token-level telemetry, and intelligent fallback strategies. <br><br> Architected an asynchronous messaging pipeline (WhatsApp → Bot → LLM) using ReAct-style agents, persistent memory backed by PostgreSQL, and optimized inference with fine-tuned Qwen models running on vLLM. <br><br> Implemented end-to-end WhatsApp Business API onboarding via Meta APIs, including number registration, webhook handling, automated routing, and session-based chat context. <br><br> Solved embedding compatibility challenges across models (e.g. BGE-M3), implementing dynamic validation and migration for 1024-dimensional vector collections. <br><br> Stack: Python (LlamaIndex, FastAPI), Laravel (PHP), PostgreSQL, Qdrant Vector DB, vLLM, Docker; integrations with Meta Business API, multiple LLM providers, and messaging systems.',
       companyLink: 'https://f2it.com.br',
