@@ -8,10 +8,10 @@ export const experiences = {
       company: 'FashionAI',
       description: [
         '<ul>',
-        '<li>Owned the architecture and delivery of an AI-powered SaaS platform, spanning product systems, backend services, and infrastructure.</li>',
-        '<li>Designed and implemented production RAG pipelines: ingestion → preprocessing → embeddings → retrieval → inference, using Qdrant as the vector store.</li>',
-        '<li>Built and operated cloud-native microservices in Node.js and Python (FastAPI), containerized with Docker and deployed on Kubernetes (GKE/EKS).</li>',
-        '<li>Established CI/CD and infrastructure automation to support reliable releases and scalable deployment of AI services.</li>',
+        '<li>Led end-to-end architecture and technical strategy for an AI-powered SaaS platform, covering product systems, backend services, and infrastructure.</li>',
+        '<li>Designed production RAG systems (ingestion → embeddings → retrieval → inference) enabling semantic product search and personalization.</li>',
+        '<li>Architected cloud-native microservices in Node.js and Python (FastAPI), containerized with Docker and deployed on Kubernetes (GKE/EKS).</li>',
+        '<li>Established CI/CD pipelines and infrastructure automation to ensure reliable releases and scalable AI service operations.</li>',
         '</ul>'
       ].join(''),
       companyLink: 'https://generativecrm.com',
@@ -22,10 +22,10 @@ export const experiences = {
       company: 'F2IT',
       description: [
         '<ul>',
-        '<li>Designed and implemented a full RAG architecture using LlamaIndex, including document ingestion, vector indexing (Qdrant), and scalable query engines.</li>',
-        '<li>Built a multi-provider LLM orchestration layer supporting OpenAI, Anthropic, and self-hosted vLLM models with per-bot configuration, dynamic prompts, telemetry, and fallback strategies.</li>',
-        '<li>Architected an asynchronous WhatsApp → agent → LLM pipeline with ReAct-style tool execution and persistent memory backed by PostgreSQL.</li>',
-        '<li>Resolved embedding compatibility and migration issues across models by validating dimensionality and managing vector collection changes.</li>',
+        '<li>Architected a full RAG platform using LlamaIndex, including ingestion workflows, vector indexing (Qdrant), and scalable semantic query engines.</li>',
+        '<li>Designed a multi-provider LLM orchestration layer (OpenAI, Anthropic, self-hosted vLLM) with dynamic routing, telemetry, and intelligent fallback strategies.</li>',
+        '<li>Built an asynchronous messaging pipeline (WhatsApp → agent → LLM) using ReAct-style agents with persistent conversational memory in PostgreSQL.</li>',
+        '<li>Solved embedding compatibility and migration challenges across models by implementing dynamic validation and controlled vector collection transitions.</li>',
         '</ul>'
       ].join(''),
       companyLink: 'https://f2it.com.br',
