@@ -2,7 +2,7 @@ const profile = {
   name: 'Alexander Ruiz',
   title: 'Senior Product & AI Systems Engineer',
   mail: 'ruizalexander@id.uff.br',
-  phoneNumber: '+55 (21) 983555156',
+  phoneNumber: '+55 (21) 96656-2279',
   website: '',
   linkedin: 'linkedin.com/in/rivailruiz',
   github: 'github.com/rivailruiz',
