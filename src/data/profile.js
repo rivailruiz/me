@@ -11,7 +11,7 @@ const profile = {
   educationDetails: {
     sectionTitle: '',
     list: [
-      { name: 'Computer Science', school: 'Universidade Federal Fluminense', date: '2015-2020' }
+      { degree: 'Computer Science', school: 'Universidade Federal Fluminense', date: '2015-2020' }
     ]
   },
   languages: {
