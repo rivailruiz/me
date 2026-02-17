@@ -1,64 +1,15 @@
 export const tags = {
-  sectionTitle: '',
+  sectionTitle: 'Technologies',
   icon: null,
   list: [
-    // Frontend
-    // 'Javascript',
-    // 'ReactJS',
-    // 'ReactNative',
-    // 'Angular',
-    // 'AngularJs',
-    // 'VueJs',
-    // 'Redux',
-    // 'Webpack',
-    // 'Npm/Yarn',
-  
-    // // Backend
-    // 'PHP',
-    // 'Golang',
-    // 'NodeJs',
-    // 'Express',
-    // 'Elixir',
-    // 'Phoenix',
-  
-    // // Databases
-    // 'Postgresql',
-    // 'MariaDB',
-    // 'MongoDB',
-    // 'Redis',
-  
-    // // Cloud Platforms
-    // 'Google Cloud',
-    // 'Azure',
-    // 'AWS S3',
-    // 'AWS Lambda',
-    // 'AWS CloudFront',
-    // 'AWS EC2',
-    // 'AWS RDS',
-    // 'Digital Ocean',
-    // 'Heroku',
-  
-    // // APIs and Protocols
-    // 'API Rest',
-    // 'API GraphQL',
-  
-    // // Server Technologies
-    // 'NGINX',
-    // 'Apache',
-    // 'Docker',
-    // 'Kubernetes',
-    // 'API Gateway',
-    // 'Microservices',
-    // 'Serverless',
-  
-    // // Version Control
-    // 'Git',
-  
-    // // Infrastructure Provisioning
-    // 'Terraform',
-  
-    // // Backend as a Service (BaaS)
-    // 'Firebase'
+    'AI: LLMs, RAG, LlamaIndex, embeddings, prompt systems, vector search',
+    'Vector DB / Inference: Qdrant, vLLM',
+    'Backend: Python (FastAPI), Node.js (NestJS), PHP, Golang',
+    'Data: PostgreSQL, MongoDB, Redis, MySQL/MariaDB',
+    'Infra: Docker, Kubernetes, Terraform',
+    'Cloud: AWS, Google Cloud',
+    'APIs: REST, GraphQL',
+    'Delivery: CI/CD, telemetry, production operations'
   ]
 };
 

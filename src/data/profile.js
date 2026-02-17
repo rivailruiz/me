@@ -1,6 +1,6 @@
 const profile = {
   name: 'Alexander Ruiz',
-  title: 'Software Engineer',
+  title: 'Senior Product & AI Systems Engineer',
   mail: 'ruizalexander@id.uff.br',
   phoneNumber: '+55 (21) 983555156',
   website: '',
@@ -16,87 +16,21 @@ const profile = {
   },
   languages: {
     sectionTitle: 'Languages',
-    list: [{ name: 'Portuguese', level: 'Native' }, { name: 'English', level: 'Professional' }, { name: 'Spanish', level: 'Beginner' }]
+    list: [
+      { name: 'Portuguese', level: 'Native' },
+      { name: 'English', level: 'Professional' },
+      { name: 'Spanish', level: 'Beginner' }
+    ]
   },
   interests: {
-    // sectionTitle: 'Skills & Proficiency',
+    // Rendered in the sidebar as a compact skills list.
     list: [
-
-      // AI
-
-      'Machine Learning',
-      'Deep Learning',
-      'Computer Vision',
-      'Fine-tuning',
-      'Transfer learning',
-      'Agent-based modeling',
-
-      //Frontend
-      'Javascript',
-      'ReactJS',
-      'ReactNative',
-      'Angular',
-      'AngularJs',
-      'VueJs',
-      'Redux',
-      'Webpack',
-      'Npm/Yarn',
-    
-      // Backend
-      'PHP',
-      'Golang',
-      'NodeJs',
-      'Express',
-      'Elixir',
-      'Phoenix',
-    
-      // Databases
-      'Postgresql',
-      'MariaDB',
-      'MongoDB',
-      'Redis',
-    
-      // Cloud Platforms
-      'Google Cloud',
-      'Azure',
-      'AWS S3',
-      'AWS Lambda',
-      'AWS CloudFront',
-      'AWS EC2',
-      'AWS RDS',
-      'Digital Ocean',
-      'Heroku',
-    
-      // APIs and Protocols
-      'API Rest',
-      'API GraphQL',
-    
-      // Server Technologies
-      'NGINX',
-      'Apache',
-      'Docker',
-      'Kubernetes',
-      'API Gateway',
-      'Microservices',
-      'Serverless',
-    
-      // Version Control
-      'Git',
-    
-      // Infrastructure Provisioning
-      'Terraform',
-    
-      // Backend as a Service (BaaS)
-      'Firebase',
-
-      // methodologies
-      'Scrum',
-      'Kanban',
-      'Agile',
-
-      //Documentation
-      'Swagger',
-      'Postman',
+      'AI Systems: LLMs, RAG, embeddings, vector search (Qdrant), vLLM',
+      'Backend: Python (FastAPI), Node.js (NestJS), PHP, Golang',
+      'Data: PostgreSQL, MongoDB, Redis, MySQL/MariaDB',
+      'Infra/Cloud: Docker, Kubernetes, Terraform, AWS, Google Cloud',
+      'Architecture: microservices, async pipelines, API design (REST/GraphQL)',
+      'Delivery: CI/CD, observability/telemetry, production operations'
     ]
   }
 };
