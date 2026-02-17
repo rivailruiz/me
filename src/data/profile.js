@@ -26,7 +26,7 @@ const profile = {
     // Rendered in the sidebar as a compact skills list.
     list: [
       'AI Systems: LLMs, RAG, embeddings, vector search (Qdrant), vLLM',
-      'Backend: Python (FastAPI), Node.js (NestJS), PHP, Golang',
+      'Backend: Python, Node.js, PHP, Golang, Elixir',
       'Data: PostgreSQL, MongoDB, Redis, MySQL/MariaDB',
       'Infra/Cloud: Docker, Kubernetes, Terraform, AWS, Google Cloud',
       'Architecture: microservices, async pipelines, API design (REST/GraphQL)',
