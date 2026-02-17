@@ -32,7 +32,7 @@ export const experiences = {
       date: '2023 - 2024'
     },
     {
-      title: 'Full Stack Engineer',
+      title: 'Tech Lead / Full Stack Engineer',
       company: 'Prefeitura do Rio de Janeiro',
       description: [
         '<ul>',
